@@ -1,0 +1,15 @@
+{
+  "name": "express-restapi",
+  "version": "1.0.0",
+  "description": "start rest api with express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blue Baney",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
